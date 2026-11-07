@@ -1,3 +1,21 @@
 <p align="center">
-<img width="324" height="284" alt="20c4fa19-db11-4461-a10e-ac9d87132fe2" src="https://github.com/user-attachments/assets/e5b14ce3-7085-41d3-9374-bff94207b5c3" />
-</p> 
+  <img width="550" height="450" src="https://github.com/user-attachments/assets/ea596ef6-6358-4dc8-a0ad-1a35dea90b8a" />
+</p>
+
+<p align="center">
+  <img width="200" height="50" src="https://github.com/user-attachments/assets/37c0ba73-535b-4c3e-acf1-0b61c5437a30" />
+  <img width="200" height="50" src="https://github.com/user-attachments/assets/48189395-8dfa-4117-9c97-359af4a330b3" />
+  <img width="200" height="50" src="https://github.com/user-attachments/assets/2d5be3b5-6dcf-4ade-9caa-7f705fc678d0" />
+</p>
+
+
+<br>
+
+<p align="center">
+  ꒰  links coming soon  ────  music taste   ⤵︎
+  <br>
+<br>
+
+<p align="center">
+  <img src="https://lastfm-recently-played.vercel.app/api?user=asahirooo&count=3&width=400" />
+</p>
